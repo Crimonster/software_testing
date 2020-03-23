@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/Frank/Desktop/grade3/软件测试/selenium/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Frank/Desktop/grade3/软件测试/selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Frank/Desktop/grade3/软件测试/selenium/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Frank/Desktop/grade3/软件测试/selenium/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Frank/Desktop/grade3/软件测试/selenium/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Frank/Desktop/grade3/软件测试/selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Frank/Desktop/grade3/软件测试/selenium/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Frank/Desktop/grade3/软件测试/lab2/poi相关所有jar包/poi-3.17/poi-ooxml-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Frank/Desktop/grade3/软件测试/lab2/poi相关所有jar包/poi-3.17/poi-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Frank/Desktop/grade3/软件测试/lab2/poi相关所有jar包/poi-3.17/poi-ooxml-schemas-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Frank/Desktop/grade3/软件测试/lab2/poi相关所有jar包/poi-3.17/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Frank/Desktop/grade3/软件测试/软件测试hw/lab2/bin/commons-collections4-4.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
